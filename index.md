@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome
 
-I'm glad you are here. I plan to talk about ...
+This is a website for hosting generative art.
