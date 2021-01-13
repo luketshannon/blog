@@ -3,13 +3,11 @@ author: Luke Shannon
 email: lshannon@princeton.edu
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  This website / blog features some of my work, generative art, and a blog that I probably won't post on.
-  Basically a glorified resume. Maybe I'll put some buzzwords in here to feed the algorithm. I use
-  python, p5js, processing, and pen plotters to make art. It's all about iteration. For software, I do a
-  lot of data analysis and data engineering, but my favorite is algorithms. I'm trying to solve 100 Euler problems.
-
+  This website features some of my work, generative art, and a blog that I probably won't post on.
+  Basically a glorified resume.
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  luketshannon # DO NOT include the @ character, or else the build will fail!
+linkedin_username: luke-t-shannon
 
 show_excerpts: true # set to false to remove excerpts on the homepage
